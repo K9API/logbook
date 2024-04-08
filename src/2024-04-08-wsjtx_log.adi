@@ -1,0 +1,8 @@
+ADIF Export
+<adif_ver:5>3.1.1
+<created_timestamp:15>20240408 014015
+<programid:6>WSJT-X
+<programversion:5>2.6.1
+<eoh>
+<call:5>K6AFW <gridsquare:4>EN35 <mode:3>FT8 <rst_sent:3>+07 <rst_rcvd:3>-14 <qso_date:8>20240408 <time_on:6>013900 <qso_date_off:8>20240408 <time_off:6>014000 <band:3>40m <freq:8>7.074901 <station_callsign:5>K9API <my_gridsquare:4>EM47 <tx_pwr:2>20 <eor>
+<call:4>K4YT <gridsquare:4>FM19 <mode:3>FT8 <rst_sent:3>+16 <rst_rcvd:3>-08 <qso_date:8>20240408 <time_on:6>014345 <qso_date_off:8>20240408 <time_off:6>014430 <band:3>40m <freq:8>7.075748 <station_callsign:5>K9API <my_gridsquare:4>EM47 <tx_pwr:2>20 <eor>
