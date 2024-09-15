@@ -1,0 +1,11 @@
+ADIF Export
+<adif_ver:5>3.1.1
+<created_timestamp:15>20240908 192612
+<programid:6>WSJT-X
+<programversion:5>2.6.1
+<eoh>
+<call:5>W7JSJ <gridsquare:4>FM07 <mode:3>FT8 <rst_sent:3>-11 <rst_rcvd:3>-18 <qso_date:8>20240908 <time_on:6>192400 <qso_date_off:8>20240908 <time_off:6>192600 <band:3>20m <freq:9>14.074501 <station_callsign:5>K9API <my_gridsquare:6>EM47CX <tx_pwr:2>50 <operator:5>K9API <eor>
+<call:11>K4OIW/QRP1W <gridsquare:0> <mode:3>FT8 <rst_sent:3>-19 <rst_rcvd:3>+02 <qso_date:8>20240908 <time_on:6>192900 <qso_date_off:8>20240908 <time_off:6>193030 <band:3>20m <freq:9>14.075274 <station_callsign:5>K9API <my_gridsquare:6>EM47CX <tx_pwr:2>50 <operator:5>K9API <eor>
+<call:4>K4JH <gridsquare:0> <mode:3>FT8 <rst_sent:3>-15 <rst_rcvd:3>-16 <qso_date:8>20240908 <time_on:6>193100 <qso_date_off:8>20240908 <time_off:6>193200 <band:3>20m <freq:9>14.075274 <station_callsign:5>K9API <my_gridsquare:6>EM47CX <tx_pwr:2>50 <operator:5>K9API <eor>
+<call:5>W0OVX <gridsquare:4>DN98 <mode:3>FT8 <rst_sent:3>-13 <rst_rcvd:3>-02 <qso_date:8>20240908 <time_on:6>193300 <qso_date_off:8>20240908 <time_off:6>193400 <band:3>20m <freq:9>14.075956 <station_callsign:5>K9API <my_gridsquare:6>EM47CX <tx_pwr:2>50 <operator:5>K9API <eor>
+<call:5>W5HRH <gridsquare:4>EL29 <mode:3>FT8 <rst_sent:3>+02 <rst_rcvd:3>-09 <qso_date:8>20240908 <time_on:6>194045 <qso_date_off:8>20240908 <time_off:6>194130 <band:3>20m <freq:9>14.074753 <station_callsign:5>K9API <my_gridsquare:6>EM47CX <tx_pwr:2>20 <operator:5>K9API <eor>

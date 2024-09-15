@@ -1,0 +1,8 @@
+ADIF Export
+<adif_ver:5>3.1.1
+<created_timestamp:15>20240909 031719
+<programid:6>WSJT-X
+<programversion:5>2.6.1
+<eoh>
+<call:5>CO3LY <gridsquare:4>EL82 <mode:3>FT8 <rst_sent:3>-10 <rst_rcvd:3>-17 <qso_date:8>20240909 <time_on:6>031615 <qso_date_off:8>20240909 <time_off:6>031715 <band:3>20m <freq:9>14.074829 <station_callsign:5>K9API <my_gridsquare:6>EM47CX <tx_pwr:2>50 <operator:5>K9API <eor>
+<call:5>K7CAR <gridsquare:4>DM37 <mode:3>FT8 <rst_sent:3>-10 <rst_rcvd:3>-14 <qso_date:8>20240909 <time_on:6>234115 <qso_date_off:8>20240909 <time_off:6>234215 <band:3>20m <freq:9>14.075347 <station_callsign:5>K9API <my_gridsquare:6>EM47CX <tx_pwr:2>50 <operator:5>K9API <eor>
