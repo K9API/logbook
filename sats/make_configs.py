@@ -134,7 +134,10 @@ def main():
         all_fm.norad_id.drop_duplicates().dropna(),
     )
 
-    all_digi = active_db[active_db["mode"].str.contains("APRS").fillna(False)]
+    all_digi = active_db[
+        active_db["mode"].str.contains("APRS").fillna(False)
+        | active_db["mode"].str.contains("Digipeater").fillna(False)
+    ]
     save_gpredict_module(
         "AMSAT_All_Digi",
         GPREDICT_MODULE_DEST,
