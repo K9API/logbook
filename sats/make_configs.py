@@ -144,6 +144,13 @@ def main():
         all_digi.norad_id.drop_duplicates().dropna(),
     )
 
+    all_tpdr = active_db[active_db["mode"].str.contains("SSB").fillna(False)]
+    save_gpredict_module(
+        "AMSAT_All_TPDR",
+        GPREDICT_MODULE_DEST,
+        all_tpdr.norad_id.drop_duplicates().dropna(),
+    )
+
 
 if __name__ == "__main__":
     main()
